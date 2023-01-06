@@ -4,7 +4,9 @@
     background-color: #ddd;
     margin-top: 2%;
     cursor: pointer;
-    width:max-content;
+    width: max-content;
+    max-width: 50%;
+    word-wrap: break-word;
 }
 
 .password-container {
